@@ -1,0 +1,29 @@
+# Build artefacts
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+ios/
+macos/
+linux/
+windows/
+web/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Local config / secrets
+android/local.properties
+android/key.properties
+android/app/google-services.json
+android/app/upload-keystore.jks
+android/app/release.jks
+
+# Generated
+**/generated_plugin_registrant.*
+.flutter-plugins
