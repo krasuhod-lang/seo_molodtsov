@@ -11,8 +11,8 @@ class OfferList extends StatefulWidget {
     super.key,
     required this.title,
     required this.subtitle,
-    OffersService? service,
-  }) : service = service;
+    this.service,
+  });
 
   final String title;
   final String subtitle;

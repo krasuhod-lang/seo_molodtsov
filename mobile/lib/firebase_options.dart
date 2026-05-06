@@ -1,4 +1,4 @@
-// GENERATED PLACEHODER — replace by running `flutterfire configure`.
+// GENERATED PLACEHOLDER — replace by running `flutterfire configure`.
 //
 // This stub lets the project compile without a real Firebase project,
 // but Firestore/Storage calls will fail at runtime until you run
